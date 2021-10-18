@@ -7,8 +7,13 @@ background-color: rosybrown;
 height: 160px;
 width: 100%;
 }
-.main{
+main{
 margin: 0 auto;
 height: 980px;
 position: relative;
 }
+.logo{
+    
+}
+/*Próximo passo, ajustar o header, tirar aquele espaço*/
+/*Link do vídeo: https://youtu.be/qPYCnebQQ6U --- Minuto 31:04*/
